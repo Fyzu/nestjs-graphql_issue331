@@ -1,0 +1,22 @@
+{
+  "name": "nestjs-graphql_issue331",
+  "version": "1.0.0",
+  "author": "Dmitry Petrov <dvpetrov.main@gmail.com>",
+  "scripts": {
+    "gen:graphql": "ts-node scripts/generate-graphql-typings"
+  },
+  "devDependencies": {
+    "@types/node": "^12.6.2",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "@nestjs/common": "^6.5.2",
+    "@nestjs/core": "^6.5.2",
+    "@nestjs/graphql": "^6.2.5",
+    "graphql": "^14.4.2",
+    "reflect-metadata": "^0.1.13",
+    "apollo-server-express": "^2.6.9",
+    "rxjs": "^6.5.2"
+  }
+}
