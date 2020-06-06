@@ -16,7 +16,7 @@
     "@nestjs/graphql": "^6.2.5",
     "graphql": "^14.4.2",
     "reflect-metadata": "^0.1.13",
-    "apollo-server-express": "^2.6.9",
+    "apollo-server-express": "^2.14.2",
     "rxjs": "^6.5.2"
   }
 }
